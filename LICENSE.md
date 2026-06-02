@@ -1,4 +1,4 @@
-# 
+# Open Source birdeye sniper bot tools for Mac OS | Lightweight birdeye sniper bot tools for PC Windows. Featuring slippage control and dex router integration — optimized for maximum performance on every platform.
 
 
 
